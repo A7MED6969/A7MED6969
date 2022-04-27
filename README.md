@@ -10,4 +10,3 @@ im A7MED , 15 y.o , from egypt , junior full stack developer
 ### 📉 Profile Statics
 
 ![](https://komarev.com/ghpvc/?username=A7MED6969&style=flat-square&color=grey)
-[![committers.top badge](https://user-badge.committers.top/iraq/A7MED6969.svg)](https://user-badge.committers.top/iraq/A7MED6969)
