@@ -2,7 +2,7 @@
 
 im A7MED , 15 y.o , from egypt , junior full stack developer
 
-some info about me : 
+🛈 some info about me : 
 
 - i hate open source 
 - i used to program at night
