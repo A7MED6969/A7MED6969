@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-im A7MED , 15 y.o , from egypt , junior full stack developer
+im A7MED , 15 y , from egypt , full stack web developer
 
 🛈 some info about me : 
 
